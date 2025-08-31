@@ -1,4 +1,4 @@
-package org.example.inventory;
+package org.example.inventoryManagement;
 
 public class Electronics extends Item{
 
