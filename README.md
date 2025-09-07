@@ -13,9 +13,7 @@ This project demonstrates how to manage inventory items (like products) using a 
 - Search items by ID or name  
 - Uses **Collections Framework (`HashMap`)** for storage  
 - Implements **Generics** for type safety  
-
 ---
-
 
 ## 📂 Project Structure
 ```
