@@ -17,7 +17,6 @@ This project demonstrates how to manage inventory items (like products) using a 
 
 ## 📂 Project Structure
 ```
-
 ├── build.gradle.kts # Gradle build script
 ├── settings.gradle.kts # Gradle settings
 ├── src
