@@ -15,6 +15,7 @@ This project demonstrates how to manage inventory items (like products) using a 
 - Implements **Generics** for type safety  
 ---
 
+
 ## 📂 Project Structure
 
 ```
